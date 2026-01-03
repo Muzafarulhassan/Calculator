@@ -27,7 +27,7 @@
     border-left: beige;
     border-right: darkblue;
     border-radius: 10px;
-    background-image: linear-gradient(to right, #0F4C4F, #345c5c);
+    background-image: linear-gradient(to right, #0F4C4F, #2f6c6c);
     margin-left: 700px;
 }
 
@@ -75,7 +75,7 @@
     margin-top: 10px;
     background-color: #000;
     color: #ffffff;
-    border-width: 1px;
+    border-width: 1px;  
     border-radius: 5px;
 }
 
